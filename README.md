@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **sarah.rogers.dev@gmail.com**
 
-- ⚡ Fun fact **I put every word I read in alphabetical order**
+- ⚡ Fun fact **I put every word I read in alphabetical order!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/s-rogers/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s-rogers/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/s-rogers/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s-rogers/" height="30" width="40" /></a>
 <a href="https://medium.com/@s.rogers0715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@s.rogers0715" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceq96-6rli6xztmkx5chqgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceq96-6rli6xztmkx5chqgw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uceq96-6rli6xztmkx5chqgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceq96-6rli6xztmkx5chqgw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
